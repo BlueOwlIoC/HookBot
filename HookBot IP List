@@ -1,0 +1,26 @@
+HOOK BUILDER: LOGIN PANEL
+=========================
+ 
+HookBOT is an Android Malware Botnet which is prevalent in DarkWeb. Add these IOCs to your blocklist on your Work Environment
+ 
+http://195.85.207.219:8082/
+http://31.210.50.162:8082/
+http://94.131.113.192:8082/
+http://154.91.82.107:8082/
+http://104.247.166.167:8082/
+http://154.198.245.50:8082/
+http://31.42.190.137:8082/
+http://91.215.85.186:8082/
+http://89.23.103.41:8082/
+http://62.146.226.39:8082/
+http://195.10.205.18:8082/
+http://88.198.83.21:8082/
+http://194.195.245.97:8082/
+http://31.42.190.137:8082/
+http://207.180.224.118:8082/
+http://91.92.249.240:8082/
+http://20.90.160.195:8082/
+ 
+HOOKBOT
+=======
+http://89.23.113.151/
